@@ -1,0 +1,8 @@
+framework module KmpAndroidExistingProjectShared {
+    umbrella header "KmpAndroidExistingProjectShared.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
